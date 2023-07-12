@@ -1,0 +1,336 @@
+.col{
+  width:20%;
+  display: inline;
+  float: left;
+}
+.row1{
+  margin-left: 200px;
+  margin-right: 100px;
+  margin-top: 30px;
+}
+.udupi-karnataka {
+    height: 24px;
+    width: 200px;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+  }
+  .group-11 {
+      height: 17px;
+      width: 140px;
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    .wrapper{
+      display:inline;
+      float: left;
+    }
+    #heart{
+      height:30px;
+      width:30px;
+    }
+    .add-to-favourite {
+      height: 15px;
+      width: 100px;
+      color: #FFFFFF;
+      font-family: Roboto;
+      font-size: 13px;
+      font-weight: 500;
+      letter-spacing: 0;
+      line-height: 15px;
+      display:inline;
+      margin-left: 10px;
+      margin-top: 10px;
+      float: right;
+    }
+    .justify-content-center{
+      width:100%;
+      margin-top: 20px;
+    }
+    .justify-content-center2{
+      width:100%;
+      margin-top: 20px;
+      margin-bottom: 150px;
+    }
+    .justify-content-center1{
+      width:50%;
+      display:inline;
+    }
+    .icon-favourite {
+      height: 17px;
+      width: 18px;
+    }
+    .path {
+      box-sizing: border-box;
+      height: 16.97px;
+      width: 18px;
+      border: 1.5px solid #FFFFFF;
+    }
+    .icon-mostly-sunny {
+      height: 84px;
+      width: 80px;
+      padding-left: 925px;
+     
+    }
+    .background1{
+   top: 100px;
+  
+    }
+    .group-12 {
+      height: 75px;
+      width: 134px;
+    }
+    .temp {
+      height: 75px;
+      width: 73px;
+      color: #FFFFFF;
+      font-family: Roboto;
+      font-size: 64px;
+      font-weight: 500;
+      letter-spacing: 0;
+      line-height: 75px;
+      padding-left: 886px;
+      
+      
+    }
+    .cf {
+      height: 30px;
+      width: 55px;
+    }
+    /*------------------------------------------------------------------------------------------------------*/
+    .switch{
+      border: none;
+      background-color: rgb(255, 255, 255);
+      text-decoration: none;
+    }
+    .weather{
+      text-align: center;
+      margin-top: 100px;
+      background-color: rgb(255, 255, 255);
+      border-radius: 5px;
+      padding: 50px 50px 50px 50px;
+      width: 50%;
+      height: auto;
+      position: relative;
+    }
+    #location{
+      font-size: 2em;
+      padding-bottom: .5em;
+    }
+    #currentTemp{
+      font-size: 1.5em;
+      display: inline-block;
+    }
+    #forc{
+      color: black;
+      display: inline-block;
+      font-size: 1em;
+    }
+    #icon{
+      width: 100%;
+      height: auto;
+    }
+  
+    .cf {
+      height: 30px;
+      width: 55px;
+    }
+    .group-3-copy {
+      height: 30px;
+      width: 28px;
+    }
+    .fo {
+      height: 13px;
+      width: 7px;
+      color: #E32843;
+      font-family: Roboto;
+      font-size: 11px;
+      letter-spacing: 0;
+      line-height: 13px;
+    }
+    .f {
+      height: 19px;
+      width: 9px;
+      color: #E32843;
+      font-family: Roboto;
+      font-size: 16px;
+      letter-spacing: 0;
+      line-height: 19px;
+    }
+    .frectangle {
+      box-sizing: border-box;
+      height: 30px;
+      width: 28px;
+      border: 1px solid #FFFFFF;
+      border-radius: 2px;
+      background-color: #FFFFFF;
+    }
+    .group-3 {
+      height: 30px;
+      width: 28px;
+    }
+    .c {
+      height: 19px;
+      width: 11px;
+      color: black;
+      font-family: Roboto;
+      font-size: 16px;
+      letter-spacing: 0;
+      line-height: 19px;
+    }
+    .co {
+      height: 13px;
+      width: 7px;
+      color: black;
+      font-family: Roboto;
+      font-size: 11px;
+      letter-spacing: 0;
+      
+      line-height: 0px;
+    }
+    .crectangle {
+      box-sizing: border-box;
+     
+      border: 1px solid #FFFFFF;
+      border-radius: 2px 0 0 2px;
+    }
+    mat-button-toggle-group {
+      box-shadow: none;
+      left: 10px;
+      top: -10px;
+      height:40px;
+      width:40;
+    }
+    
+    mat-button-toggle {
+        border: 1px rgba(0,0,0,0) solid !important;
+        margin-top: 5px !important;
+        padding: 30 5px !important;
+        z-index: 3 !important;
+        background-color: rgba(255,255,255,0.6);
+    }
+    
+    mat-button-toggle:hover {
+        border: 1px #000 solid !important;
+        background-color: #FFF !important;
+        border-radius: 5px !important;
+    }
+    
+    .mat-button-toggle-checked {
+        box-shadow: 0 0 30px #000 !important;
+        border: 1px #000 solid !important;
+        border-radius: 5px !important;
+        background-color: #FFF !important;
+    }
+    
+    .mat-button-toggle-input {
+        background-color: none !important;
+        padding-left: 10px !important;
+    }
+    .mostly-sunny {
+      height: 25px;
+      width: 200px;
+      color: #FFFFFF;
+      font-family: Roboto;
+      letter-spacing: 0;
+      line-height: 25px;
+      padding-left: 850px;
+      font-size: 50px;
+      text-transform: capitalize;
+     
+    }
+      .line-copy {
+        box-sizing: border-box;
+        height: 1px;
+        border: 1px solid #FFFFFF;
+        opacity: 0.6;
+        margin-left: 90px;
+        margin-right: 90px;
+        margin-block-start: 1.2em;
+        margin-block-end: 0em;
+    
+    }  
+    .group-6-copy {
+      height: 49px;
+      width: 200px;
+    }
+    .o-copy {
+      height: 13px;
+      width: 7px;
+      color: #FFFFFF;
+      font-family: Roboto;
+      font-size: 11px;
+      letter-spacing: 0;
+      line-height: 13px;
+      left:58px;
+      right:46px;
+    }
+    .mo {
+      height: 13px;
+      width: 7px;
+      color: #FFFFFF;
+      font-family: Roboto;
+      font-size: 11px;
+      letter-spacing: 0;
+      line-height: 13px;
+    }
+    .min-max {
+      height: 25px;
+      width: 69px;
+      color: #FFFFFF;
+      font-family: Roboto;
+      font-size: 22px;
+      font-weight: 500;
+      letter-spacing: 0;
+      line-height: 25px;
+    }
+    .icon-temperature-info {
+      height: 40px;
+      width: 25px;
+    }
+    .footer-temp-img{
+      display: inline;
+      float: left;
+    }
+    .footer-temp-data{
+      display: inline;
+      float: left;
+      margin-left: 20px;
+    }
+    .min-maxl {
+      height: 18px;
+      width: 66px;
+      color: #FFFFFF;
+      font-family: Roboto;
+      font-size: 15px;
+      letter-spacing: 0;
+      line-height: 18px;
+    }
+    .container{
+      float: left;
+      height: 710px;
+      width: 100%;
+      padding-top: 50px;
+      background-image: url(src\app\images\background1.png);
+      background-size: cover;
+    }
+    .fa-heart-o {
+      color: red;
+      cursor: pointer;
+    }
+    
+    .fa-heart {
+      color: red;
+      cursor: pointer;
+    }
+    .o-minmax{
+      vertical-align: super;
+      color:white;
+    }

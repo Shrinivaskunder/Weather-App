@@ -1,0 +1,35 @@
+.container{
+    float: left;
+    height: 710px;
+    width: 100%;
+    padding-top: 50px;
+    color:white;
+    background-image: url(src\app\images\background1.png);
+    background-size: cover;
+}
+#myTable{
+    margin-top: 20px;
+    color:white;
+    float: left;
+    height: auto;
+    width: 75%;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgba(255,255,255,0.2);
+}
+.row{
+    float: left;
+    height: auto;
+    width: 89.5%;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+a{
+    color:white   
+}
+.col-10{
+    float:left;
+}
+.col-2{
+    float:right;
+}
